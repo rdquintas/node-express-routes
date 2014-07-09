@@ -1,0 +1,15 @@
+{
+  "name": "test-app",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "3.*",
+    "response-time": "*",
+    "jade": "*",
+    "errorhandler": "^1.0.1",
+    "mocha": "^1.18.2"
+  }
+}
